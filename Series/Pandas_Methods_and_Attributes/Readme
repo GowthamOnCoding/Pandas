@@ -1,0 +1,4 @@
+Each Python object has both attribute and methods
+Pandas series is one type of object, hence it is having attributes and methods as well
+Attribute- give information about object and it will not manipulate it
+Methods- Can be operated upon on object hence it can modify it
